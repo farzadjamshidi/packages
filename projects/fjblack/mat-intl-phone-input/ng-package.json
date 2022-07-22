@@ -1,0 +1,7 @@
+{
+  "$schema": "../../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../../dist/fjblack/mat-intl-phone-input",
+  "lib": {
+    "entryFile": "src/public-api.ts"
+  }
+}
